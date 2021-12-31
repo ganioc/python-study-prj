@@ -4,5 +4,10 @@
 ## matplotlib
 pip3 install matplotlib
 
+pip3 install pygal==1.7 # 非常漂亮的直方图, 也是一个图形化工具库
+
+
+
+
 
 
