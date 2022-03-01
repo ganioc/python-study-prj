@@ -1,5 +1,8 @@
 Books
 * A Beginner's Guide to Learning the Basics of Pyhton Programming
+* Cracking Codes with Python
+
+一个新的出版社: https://nostarch.com/
 
 
 pygal
@@ -106,3 +109,74 @@ del list[0]
     .remove(index)
 
 Tuples,
+无法修改, 1,2,3,
+从头数，0
+从尾数, -1, 
+Extend slicing, is also supported, 存储static data, 比lists的速度会更快, 
+    .count(),
+    .index(),
+
+if:
+else:
+elif:
+
+while :
+    Break, Continue, 
+else:
+
+for backon in ():
+    print(backon)
+
+try:
+
+Except NameError:
+Except:
+Else:
+Finally:
+
+With open("","r") as file:
+
+in,
+is,
+
+Pass, nop, syntactic sugar,
+
+Def hi(x=0): % 定义函数
+
+Class NNN:
+    Def __init__(self, ,):
+        Self.brand=xxx
+    Def METHOD(self, arg,):
+
+if __name__=="__main__"
+
+modules模块:
+    import xxx, import math
+    from xxx import statement
+locals()
+globals()
+reload(module_name)
+__init__.py 放在目录下面, from directory import Class Name,
+
+Python Idioms:
+EAFP: Easier to Ask Forgiveness than Permission
+LBYL: Look Before You Leap, 
+
+context managers,
+
+"".join(x)
+
+dictionaires, .values()
+    .keys()
+
+trace.py -t 
+
+## << Cracking Codes with Python>>
+RSA加密, 
+Electronic Frontier Foundation,
+legal battle for freedom of cryptography,
+pyperclip.py, 下载之,
+
+
+
+
