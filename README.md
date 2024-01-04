@@ -1,8 +1,18 @@
-Books,
-mastering machine learning with scikit?
-<< Python Data Science Handbook >>
-# For Python study
+## Books
+
+Mastering machine learning with scikit?
+
+\<Python Data Science Handbook\>
+
+\< Python Programming: Your Step by Step Guide to Easily Learn Python in 7 days \>
+
+## For Python study
 目录下放, __init__.py文件，空的好了
+
+## Python step by step
+python3 v3.10.12
+
+
 
 ## matplotlib
 pip3 install matplotlib
