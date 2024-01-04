@@ -12,6 +12,10 @@ Mastering machine learning with scikit?
 ## Python step by step
 python3 v3.10.12
 
+```python
+**  # 次方
+"%.2f %.1f" %( , ) # 输出多个参数，中间用,分隔, v2.7
+```
 
 
 ## matplotlib
