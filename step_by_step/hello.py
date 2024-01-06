@@ -81,5 +81,11 @@ phones = {
 }
 print(phones['Catherine Becket'])
 
+###########################################################
+# Function Definition
+def myfunc():
+    return 101
+
+print("myfunc(): %s" % (myfunc()))
 
 # end of file
